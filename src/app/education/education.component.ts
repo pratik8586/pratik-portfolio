@@ -9,34 +9,16 @@ import { Education } from '../modals/modals';
 export class EducationComponent implements OnInit{
   educationList: Education[] = [
     {
-      institute:'School of Execellence',
-      course: 'Maths',
-      duration:'121 -112',
-      score:'90%',
+      institute:'Patel College Of Science & Technology, Indore (M.P)',
+      course: 'Computer Science',
+      duration:'2010 - 2014',
+      score:'71%',
     },
     {
-      institute:'School of Execellence',
+      institute:'School of Excellence, Dhar (M.P)',
       course: 'Maths',
-      duration:'121 -112',
-      score:'90%',
-    }
-    , {
-      institute:'School of Execellence',
-      course: 'Maths',
-      duration:'121 -112',
-      score:'90%',
-    }
-    , {
-      institute:'School of Execellence',
-      course: 'Maths',
-      duration:'121 -112',
-      score:'90%',
-    }
-    , {
-      institute:'School of Execellence',
-      course: 'Maths',
-      duration:'121 -112',
-      score:'90%',
+      duration:'2009 - 2010',
+      score:'77%',
     }
 
   ];

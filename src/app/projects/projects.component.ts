@@ -10,47 +10,39 @@ export class ProjectsComponent {
 
   projects: Projects[] = [
     {
-      title:'Google project',
-      technologies:'java , Angular',
+      title:'Access-Mgmt',
+      technologies:' Java, SpringBoot, Hibernate, Kafka, JMS, MicroServices',
       description:[
         
-          'Worked as lead engineer'
+          'Participated in Requirements reviews to understand the business requirements.',
+          'Involved in design discussions and peer reviews',
+          'Responsible for writing Restful APIs',
+          'Worked on monitoring services across prod environments.',
+          'Worked on resolving production related issues.'
         
       ]
     },
     {
-      title:'Google project',
-      technologies:'java , Angular',
+      title:'Virtual Network Functions Manager (VNFM)',
+      technologies:' Openstack, Java, SpringBoot, Hibernate',
       description:[
         
-          'Worked as lead engineer'
+          'Worked as Principal Engineer,',
+          'Handled team of 4 people.',
+          'Involved in client discussions and bug fixes.',
+          'Responsible for Code reviews.',
+          'Participated in Requirements reviews to understand the business requirements.',
+          'Responsible for writing Restful APIs'
         
       ]
     },
     {
-      title:'Google project',
-      technologies:'java , Angular',
+      title:'Prequal Tool',
+      technologies:'Java, SpringBoot, MicroServices',
       description:[
         
-          'Worked as lead engineer'
-        
-      ]
-    },
-    {
-      title:'Google project',
-      technologies:'java , Angular',
-      description:[
-        
-          'Worked as lead engineer'
-        
-      ]
-    },
-    {
-      title:'Google project',
-      technologies:'java , Angular',
-      description:[
-        
-          'Worked as lead engineer'
+          'Participated in Requirements reviews to understand the business requirements.',
+          'Responsible for writing Restful APIs.'
         
       ]
     }
