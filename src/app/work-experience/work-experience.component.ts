@@ -10,34 +10,30 @@ export class WorkExperienceComponent {
 
   workExperienceList: WorkExperience [] = [
     {
-      role: 'Senior Engineer',
-      company: 'GoldMan Sach',
+      role: 'Senior Software Engineer',
+      company: 'Ontrust Privacy Management. ( Bangalore K.A  )',
       duration:'3yrs',
-      description:['Worked with multiple teams to develop desktop and web apss',
-    'Worked on difference technologies as Java, Android, Angular'
+      description:['Working in core services',
+      'Working on new feature development and enhancements'
        ]
     },
     {
-      role: 'Senior Engineer',
-      company: 'GoldMan Sach',
-      duration:'3yrs',
-      description:['Worked with multiple teams to develop desktop and web apss',
-    'Worked on difference technologies as Java, Android, Angular'
+      role: 'Principal Engineer',
+      company: 'Hughes Systique Corporation. ( Bangalore K.A )',
+      duration:'2.5 yrs',
+      description:['Worked on multiple Java based projects'
        ]
     }
     ,{
-      role: 'Senior Engineer',
-      company: 'GoldMan Sach',
-      duration:'3yrs',
-      description:['Worked with multiple teams to develop desktop and web apss',
-    'Worked on difference technologies as Java, Android, Angular'
-       ]
+      role: 'Senior Software Engineer',
+      company: 'Pisight Pvt. Ltd. ( Pune M.H )',
+      duration:'2yrs',
+      description:['Worked with multiple teams to develop Java based Applications']
     },{
-      role: 'Senior Engineer',
-      company: 'GoldMan Sach',
-      duration:'3yrs',
-      description:['Worked with multiple teams to develop desktop and web apss',
-    'Worked on difference technologies as Java, Android, Angular'
+      role: 'Software Engineer',
+      company: 'Technorizen Software Solutions. ( Indore M.P )',
+      duration:'1yr',
+      description:['Worked as an Android Developer'
        ]
     }
   ];

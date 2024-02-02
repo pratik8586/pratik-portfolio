@@ -11,39 +11,49 @@ export class SkillsComponent {
   skills: Skills[] = [
 
     {
-    name: 'Angular, Anagular Material',
+    name: 'Java',
     level:'Expert',
     rating:85
 
     },
     {
-      name: 'Angular, Anagular Material',
+      name: 'SpringBoot, Hibernate',
       level:'Expert',
-      rating:85
+      rating:90
   
     },{
-        name: 'Angular, Anagular Material',
+        name: 'Kafka',
         level:'Expert',
-        rating:85
+        rating:70
     
     }
     ,{
-          name: 'Angular, Anagular Material',
+          name: 'MySQL, NoSql',
           level:'Expert',
-          rating:85
+          rating:80
       
     }
      ,{
-            name: 'Angular, Anagular Material',
-            level:'Expert',
-            rating:85
+         name: 'Microservices',
+         level:'Expert',
+         rating:85
         
     },
     {
-              name: 'Angular, Anagular Material',
-              level:'Expert',
-              rating:85
+         name: 'Datastructure & Algorithms',
+         level:'Expert',
+         rating:85
           
+    },
+    {
+      name: 'Reactive Programming',
+      level:'Intermediate',
+      rating:50
+    },
+    {
+      name: 'Angular',
+      level:'Beginner',
+      rating:10
     }
   ];
 
